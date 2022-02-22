@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the proceedings to judgment against the Charter of the City of London, as it was given in Court of Kings Bench, the 12th of this instant June, Anno Dom. 1683</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25852</idno>
+            <idno type="STC">Wing A373</idno>
+            <idno type="STC">ESTC R9579</idno>
+            <idno type="EEBO-CITATION">11665680</idno>
+            <idno type="OCLC">ocm 11665680</idno>
+            <idno type="VID">48022</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25852)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48022)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 3:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the proceedings to judgment against the Charter of the City of London, as it was given in Court of Kings Bench, the 12th of this instant June, Anno Dom. 1683</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Langley Curtis ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  Charters, grants, privileges.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:48022:1"/>
+            <head>AN ACCOUNT OF THE Proceedings to Judgment AGAINST THE CHARTER OF THE CITY of LONDON; As it was given in Court of <hi>Kings-Bench,</hi> the 12th of this Inſtant <hi>June, Anno. Dom.</hi> 1683.</head>
+            <argument>
+               <p>Entered according to Order.</p>
+            </argument>
+            <p>THis day Mr. Juſtice <hi>Jones,</hi> Mr. Juſtice <hi>Raymond,</hi> and Mr. Juſtice <hi>Withens;</hi> taking their Places in the Court of <hi>King's-Bench,</hi> Mr. Attorney General moved the Court for Judgment againſt the CHARTER of the City of <hi>London, &amp;c.</hi> whereupon the Court declared, That there having been a <hi>Quo Warranto</hi> brought on the part of the King, to inquire by what right they for one Month before occupied the ſaid CHARTER, as Body of Mayor, Commonalty, and Citizens, to Plead and be Impleaded as a Body Politick and Corporate; and that thereunto they had Pleaded <hi>Magna Charta,</hi> the Grants of ſeveral Kings, and eſpecially of His preſent Majeſty for Juſtification; when it was again objected, that they, con<g ref="char:EOLhyphen"/>trary to the ſaid Grants, had unlawfully, amongſt themſelves, made By-Laws to Levy Toll or Taxes upon the King's Subjects, both Citizens and Strangers, bringing any goods into the Markets, within the ſaid City and Liberties, whether they were Sold, or not Sold; and to Juſtifie themſelves therein, they, the Mayor, Commonalty and Ci<g ref="char:EOLhyphen"/>tizens did ſuggeſt, that they, as One Body Corporate, had, time out of mind, ta<g ref="char:EOLhyphen"/>ken Toll of ſuch as brought Wares to the ſaid Markets; and that the Commonalty, or Common-Council, to the number of 252. or thereabout, had, upon all occaſions, for many years paſt, made and provided ſuch By-Laws, as were not oppugnant to Acts of Parliament, for the good Government and Ordering the City; to which it was ſaid, That on the part of the King it had been plainly demonſtrated, that ſuch Levying of Taxes or Toll was oppugnant to Acts of Parliament, and grievous to the King's Sub<g ref="char:EOLhyphen"/>jects, and an Encroachment upon the Fundamental Laws of the Land, for which their CHARTER ought to be ſurrendred into His Majeſties hands as forfeited: That it was further alledged by Mr. Attorney, That they, the Mayor, Aldermen and Commons in Common Council Aſſembled, did, contrary to the known Laws, agree to, and cauſe to Be Allowed, Printed and Publiſhed, on the 13th of <hi>January,</hi> (upon the Prorogation of the Parliament, from the 10th of <hi>January</hi> to the 20th of the ſame Inſtant) a ſcan<g ref="char:EOLhyphen"/>dalous Petition, to bring the King's Perſon in hatred with His Subjects, and the ſam
+<pb facs="tcp:48022:2"/>did diſperſe, to ſtir up His Majeſties Liege People to Sedition and Rebellion; or to this Effect: And that thereunto the Aldermen, Commons and Citizens had Reply, That there was at that time a dangerous Plot againſt the Perſon of the King's Majeſty, the Government, <hi>&amp;c.</hi> To prove which they inſtanced the ſeveral Attaindures of Traytors, the Impeachments of the Lords in the <hi>Tower,</hi> the ſeveral Proclamations on the account of the ſaid Plot, the Opinion of His Majeſty, and both Houſes of Parliament, together with ſeveral Votes, all plainly demonſtrating that there was a Plot; yet that it had been by Mr. Attorney plainly demonſtrated, That the ſaid Petition was Evilly and Mali<g ref="char:EOLhyphen"/>ciouſly intended, to Alienate the hearts of His Majeſties Subjects, and to Induce them to a hatred of his Royal Perſon, contrary to their Allegiance, and the Well Govern<g ref="char:EOLhyphen"/>ment of Corporations, according to the Conſtitution and Inſtitution of Body Politicks, whoſe Continuation depends upon the good Government of thoſe that are Intruſted with the CHARTER or CHARTERS, Grants or Priviledges, or to this Effect; And it is in His Majeſty's Power to call any CHARTER or Grant in queſtion, as in His Royal Wiſdom it ſhall ſeem fir; and that if by their Intrenching on the Funda<g ref="char:EOLhyphen"/>mental Laws, by preſuming unwarrantably to Exceed their Grants, Infranchiſements, Priviledges, <hi>&amp;c.</hi> the ſaid CHARTER is forfeited, and may be ſeized into the hands of the King, which was the Caſe of the CHARTER of <hi>London,</hi> by which the Mayor, Commonalty, and Citizens, were Impowered as a Body Politick Incorporated to Plead or be impleaded as one Man, which they themſelves had owned they were, and that they muſt ſtand or fall as ſuch as in their Rejoynder, <hi>&amp;c.</hi> And ſeveral Arguments at the Bar in relation to the ſaid CHARTER, and in defence thereof it had appeared.</p>
+            <p>Theſe being the main Points appearing to be inſiſted on by Mr. Attorney on the behalf of the King, the Court declared, That the Records and Evidences both An<g ref="char:EOLhyphen"/>tient and Modern, had been peruſed, and narrowly Examined; and that they had ſeen Copies on both ſides, which compared, differed not; all things therein contained, being coherent and owned by Plaintiffs and Defendants Council, as true Copies, nothing on either ſide there againſt objected; which having been ſeriouſly conſidered, did not warrant either an Exaction of Toll, or Levying any Tax upon His Maieſties Sub<g ref="char:EOLhyphen"/>jects, as had for many years paſt been Exacted and Received by Officers thereunto Appointed by the ſaid Major, Commons and Citizens of <hi>London,</hi> but by Act of Par<g ref="char:EOLhyphen"/>liament it appeared, that ſuch a Levying of money was a manifeſt breach of the Laws, and rendred their CHARTER forfeited, and liable to a ſurrender and ſeizure into the hands of the King, the Act of Oblivion not extending to their Relief, although they alledged the By-Law was made ſoon after the Fire of <hi>London.</hi>
+            </p>
+            <p>That as to the Petition, the Proceedings therein were altogether unwarrantable, and that nothing offered on the part of the Corporation could juſtifie them therein, for that it was a manifeſt Breach of the Truſt Impoſed in them, which Breach, and the other Aſſigned was a Violation of their CHARTER, and rendred it forfeit.</p>
+            <p>The Sum of what had been formerly Argued being theſe, or to this Effect.</p>
+            <p>Mr. Juſtice <hi>Jones</hi> upon the particulars as they offered gave his Opinion, &amp; afterward de<g ref="char:EOLhyphen"/>clared that he and his brethren the reſt of the Judges of that court preſent had attended the Lord Chief Juſtice <hi>Saunders</hi> about that Important affair, and that they had received his opinion in the Matter, and that he and they were of opinion that the CHARTER of the City of <hi>London</hi> upon the breaches Aſſigned by Mr. Attorny General was forfeited and according to Law to be ſeized into his Majeſties hands to be diſpoſed of as he in his princely wiſdom ſhould think convenient; In which opinion Mr. Juſtice <hi>Raymond</hi> and Mr. Juſtice <hi>Withens</hi> concurred, declaring that they had uſed great Diligence in per<g ref="char:EOLhyphen"/>ruſing the Records and other Evidences and had Attentively heard the Arguments on Either part, and that the breaches Aſſigned being plain and found unwarrantable the CHARTER was forfeited.</p>
+            <p>Judgment thus given Mr. Attorny General Moved that all further proceedings as to entering up Judgments, <hi>&amp;c.</hi> might be ſuſpended till his Majeſties pleaſure was fur<g ref="char:EOLhyphen"/>ther known, of which Motion the Court ordered the Clark of the Office to take notice.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Langley Curtis</hi> at the ſign of Sir <hi>Edmund-Bury-Godfrey</hi>'s Head near <hi>Fleet-Bridge.</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
